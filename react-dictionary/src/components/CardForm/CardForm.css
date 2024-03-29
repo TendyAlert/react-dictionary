@@ -1,0 +1,30 @@
+.card-form  {
+    width: 400px;
+    height: 200px;
+    background-color: lightgray;
+    margin: 25px auto;
+    padding: 5px 0;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.card-form input {
+    margin-left: 15px;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+.card-form button {
+    padding: 6px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    background-color: gray;
+    color: lightgray;
+    cursor: pointer;
+}
+
+.form-row{
+    user-select: none;
+    margin: 8px auto;
+}
